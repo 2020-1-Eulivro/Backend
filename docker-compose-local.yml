@@ -10,5 +10,4 @@ services:
       - ./:/home/node/app
     ports:
       - 3000:3000
-    command: "yarn"
-    command: "yarn start"
+    command: "npm start" 
