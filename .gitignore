@@ -69,3 +69,5 @@ dist
 
 #Macos DS_Store
 *.DS_Store
+
+node_modules
