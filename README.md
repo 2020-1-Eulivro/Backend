@@ -1,4 +1,5 @@
 # Backend NodeJS EuLivro
 
 ### Subir o container:
-        `docker-compose -f docker-compose-local.yml up --build` 
+       - npm install
+       - docker-compose -f docker-compose.yml up --build
